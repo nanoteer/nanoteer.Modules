@@ -12,7 +12,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <FileAlignment>512</FileAlignment>
-    <RootNamespace>Nanoteer.Modules.GHI.Led7R</RootNamespace>
+    <RootNamespace>Nanoteer.Modules.GHI</RootNamespace>
     <AssemblyName>Nanoteer.Modules.GHI.Led7R</AssemblyName>
     <TargetFrameworkVersion>v1.0</TargetFrameworkVersion>
   </PropertyGroup>
